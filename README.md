@@ -1,6 +1,7 @@
 # ktmt-nhapmon-nhom_8
 # Link repo:https://github.com/leondp243207/ktmt-nhapmon-nhom_8.git
-# Link PR: https://github.com/leondp243207/ktmt-nhapmon-nhom_8/pull/1
+# Link PR: 
+         https://github.com/leondp243207/ktmt-nhapmon-nhom_8/pull/1
          https://github.com/leondp243207/ktmt-nhapmon-nhom_8/pull/5
          https://github.com/leondp243207/ktmt-nhapmon-nhom_8/pull/6
 # Thành viên:
